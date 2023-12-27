@@ -1,3 +1,4 @@
+<pre>
 ## O que é HTML?
 
 HTML é uma linguagem de marcação, ou seja, um conjunto de tags que definem o conteúdo de uma página web. A estrutura básica de um documento HTML é a seguinte:
@@ -64,3 +65,4 @@ A estrutura de uma página HTML é a seguinte:
     </body>
 </html>
 ```
+</pre>
