@@ -43,7 +43,7 @@ Alguns elementos irão exibir corretamente mesmo se você esquecer a tag de fech
 
 No entanto, alguns navegadores podem adicionar uma tag de fechamento automaticamente.
 
-Para uma melhor legibilidade e para evitar resultados inesperados e que erros ocorram: `<strong>sempre feche tags HTML.</strong>`
+Para uma melhor legibilidade e para evitar resultados inesperados e que erros ocorram: <strong>sempre feche tags HTML.</strong>
 
 ## Elementos HTML vazios
 

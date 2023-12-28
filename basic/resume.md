@@ -55,3 +55,5 @@ Imagens são definidas com a tag `<img>`. O nome do arquivo da imagem é especif
 ```html
 <img src="imagem.jpg" alt="descrição da imagem">
 ```
+
+Se a imagem não puder ser exibida, o texto alternativo será exibido. Ou então, se a imagem puder ser exibida, mas o usuário não puder vê-la e o leitor de tela estiver sendo usado, o texto alternativo será lido.
