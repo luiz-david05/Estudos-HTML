@@ -9,22 +9,22 @@
                 </tr>
             </thead>
             <tbody>
-                <tr style="color: #ff0000;">
+                <tr>
                     <td>Vermelho</td>
                     <td>#FF0000</td>
                     <td>rgb(255, 0, 0)</td>
                 </tr>
-                <tr style="color: #03ad03;">
+                <tr>
                     <td>Verde</td>
                     <td>#03AD03</td>
                     <td>rgb(0, 255, 0)</td>
                 </tr>
-                <tr style="color: #070799;">
+                <tr>
                     <td>Azul</td>
                     <td>##07079</td>
                     <td>rgb(0, 0, 255)</td>
                 </tr>
-                <tr style="color: #FFFFFF; background-color: #000;"">
+                <tr>
                     <td>Branco</td>
                     <td>#FFFFFF</td>
                     <td>rgb(255, 255, 255)</td>
@@ -78,3 +78,45 @@
         </table>
 
 ## Cores de fundo
+
+Você pode definir a cor de fundo de um elemento com a propriedade CSS `background-color`.
+
+```html
+<h1 style="background-color:DodgerBlue;">Olá Mundo</h1>
+<p style="background-color:Tomato;">Olá Mundo</p>
+```
+
+## Cores de texto
+
+Você pode definir a cor do texto de um elemento com a propriedade CSS `color`.
+
+```html
+<h1 style="color:Tomato;">Olá Mundo</h1>
+<p style="color:DodgerBlue;">Olá Mundo</p>
+```
+
+## Cores de borda
+
+Você pode definir a cor da borda de um elemento com a propriedade CSS `border-color`.
+
+```html
+<h1 style="border:2px solid Tomato;">Olá Mundo</h1>
+<h1 style="border:2px solid DodgerBlue;">Olá Mundo</h1>
+```
+
+## Valores de cores
+
+No HTML, as cores podem ser especificadas de diferentes formas:
+
+- Por um nome de cor válido - como "vermelho"
+- Como um valor hexadecimal - como "#ff0000"
+- Como um valor RGB - como "rgb(255,0,0)"
+- Como um valor HSL - como "hsl(0, 100%, 50%)"
+
+```html
+<h1 style="background-color:Tomato;">Olá Mundo</h1>
+<h1 style="background-color:#ff0000;">Olá Mundo</h1>
+<h1 style="background-color:rgb(255,0,0);">Olá Mundo</h1>
+<h1 style="background-color:hsl(0, 100%, 50%);">Olá Mundo</h1>
+```
+
