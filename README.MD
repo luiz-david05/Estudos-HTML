@@ -46,5 +46,91 @@
 
 - [Ícone](./favicon/resume.md)
 
-
-style="background-color: #f1f1f1;"
+<style>
+    .container {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        width: 100%;
+        height: 100vh;
+    }
+    .container h1 {
+        font-size: 3rem;
+        font-weight: 700;
+        color: #333;
+        margin-bottom: 1rem;
+    }
+    .container h2 {
+        font-size: 2rem;
+        font-weight: 500;
+        color: #333;
+        margin-bottom: 1rem;
+    }
+    .container h3 {
+        font-size: 1.5rem;
+        font-weight: 500;
+        color: #333;
+        margin-bottom: 1rem;
+    }
+    .container h4 {
+        font-size: 1.25rem;
+        font-weight: 500;
+        color: #333;
+        margin-bottom: 1rem;
+    }
+    .container h5 {
+        font-size: 1rem;
+        font-weight: 500;
+        color: #333;
+        margin-bottom: 1rem;
+    }
+    .container h6 {
+        font-size: 0.875rem;
+        font-weight: 500;
+        color: #333;
+        margin-bottom: 1rem;
+    }
+    .container p {
+        font-size: 1rem;
+        font-weight: 400;
+        color: #333;
+        margin-bottom: 1rem;
+    }
+    .container a {
+        font-size: 1rem;
+        font-weight: 400;
+        color: #333;
+        margin-bottom: 1rem;
+    }
+    .container ul {
+        font-size: 1rem;
+        font-weight: 400;
+        color: #333;
+        margin-bottom: 1rem;
+    }
+    .container ol {
+        font-size: 1rem;
+        font-weight: 400;
+        color: #333;
+        margin-bottom: 1rem;
+    }
+    .container li {
+        font-size: 1rem;
+        font-weight: 400;
+        color: #333;
+        margin-bottom: 1rem;
+    }
+    .container code {
+        font-size: 1rem;
+        font-weight: 400;
+        color: #333;
+        margin-bottom: 1rem;
+    }
+    .container pre {
+        font-size: 1rem;
+        font-weight: 400;
+        color: #333;
+        margin-bottom: 1rem;
+    }
+</style>
