@@ -45,3 +45,6 @@
 - [Elemento Picture](./images/image-picture-resume.md)
 
 - [Ícone](./favicon/resume.md)
+
+
+style="background-color: #f1f1f1;"
